@@ -1,0 +1,24 @@
+{
+  "name": "gentle-tdd",
+  "version": "1.0.0",
+  "description": "Ejercicio de TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaiaRT46RRRRRRR/Gent-example.git"
+  },
+  "keywords": [
+    "\"test\"",
+    "\"tdd\"",
+    "\"example\""
+  ],
+  "author": "Maia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaiaRT46RRRRRRR/Gent-example/issues"
+  },
+  "homepage": "https://github.com/MaiaRT46RRRRRRR/Gent-example#readme"
+}
